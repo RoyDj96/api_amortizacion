@@ -30,6 +30,3 @@ export const Formula = async (req, res) => {
     amortizacion: Amortizacion
   })
 }
-
-
-
